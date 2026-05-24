@@ -1,0 +1,2 @@
+"(7, 14)"
+"(3, 12)",6,"{0: [""Commoner's Shirt"", True, True, False, False, 'torso', 0, 50, 3], 1: [""Commoner's Trousers"", True, True, False, False, 'legs', 0, 50, 3], 2: [""Commoner's Shoes"", True, True, False, False, 'feet', 0, 25, 0], 3: ['Bare Fists', True, False, False, False, 'two_handed', 3, False, 20], 4: ['Wooden Stick', False, False, False, 75, 'one_handed', 5, 20, 40], 5: ['Iron Dagger', False, True, False, 35, 'one_handed', 12, 100, 25]}","{'Attack': 12, 'Defense': 0, 'HP': 4, 'Energy': 0, 'Max Energy': 105}"
