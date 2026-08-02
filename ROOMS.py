@@ -7,6 +7,26 @@ import sys
 import platform
 import os
 
+"""
+
+So from here on I commence the refactoring of my old text-based adventure game.
+
+Here's the plan:
+
+    - Don't change any functionality except saving to a json file instead of a csv file to gain more experience with using the json format.
+    - Other than that, add clearer naming conventions
+    - Split code into other files
+    - Before I didn't really know how OOP worked, I think I didn't use any inheritance...
+    - Ye that's it
+
+if LibraryOfBooks took over a week and that was 400 lines of code
+2500/400 = 6.25
+
+This will take approximately 6 weeks...
+and since I know I will get bored and will keep alternating between different projects, it might take a little longer than that...
+
+"""
+
 directions = ["N","E","S","W"]
 
 rep_check = False
