@@ -22,4 +22,4 @@ def TypeToConsole(string, delay):
     return
 
 ClearConsole()
-TypeToConsole("Hey wassamata you altair", 0.1)
+TypeToConsole("Hey", 0.1)
